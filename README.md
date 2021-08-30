@@ -1,4 +1,4 @@
-# Degree Project with Dynamic Mode Decomposition (DMD)
+# COVID-19 with Dynamic Mode Decomposition (DMD)
 
 The  SARS-CoV-2  is  a  virus  that  produces  a  respiratory  disease  known  as  coronavirus  2019(COVID-19). This belongs to the family of coronaviruses, being a type of virus that infects humansand some animals around the world. In fact, SARS-CoV-2 infection was identified for the first timein people exposed to a seafood market in the Wuhan sector, China, around November 2019. Since  then,  it  has  been  one  of  the  biggest  public  health  problems  in  the  history  of  mankind  inrecent centuries, since this virus has a rapid rate of transmission and contagion. Thus, the WorldHealth Organization (WHO) issued a state of pandemic in a matter of a few months, causing greateconomic losses worldwide. Given the dimension of this problem, interest has been aroused by dif-ferent scientific teams to identify the behavior of the spread, to find a relevant way for its treatment.
 
