@@ -5,3 +5,5 @@ The  SARS-CoV-2  is  a  virus  that  produces  a  respiratory  disease  known  a
 By virtue of this situation, in this degree project an emergent method driven by data will bepresented, called Dynamic Mode Decomposition (DMD), which will allow to know the epidemiolo-gical  dynamics  in  a  spatio-temporal  way  over  a  short  period  of  time,  using  the  reportsgenerated within the metropolitan area of Santiago de Cali, Colombia. In this sense, thecomputational  tools  MATLAB  and  R  will  be  used  to  run  the  different  simulations  that  will  beuseful to understand the behavior of this virus; Likewise, complementary, and auxiliary conceptsthat will be relevant to have an adequate handling of the DMD method will be analyzed, such asSingular Value Decomposition (SVD), Principal Component Analysis (PCA), Independent Com-ponent Analysis (ICA) and finally the Koopman Analysis.
 
 **Keywords:** Dynamic Mode Decomposition, Coronavirus, DMD, COVID-19, SARS-CoV-2.
+
+![CT3](https://user-images.githubusercontent.com/89767264/131359804-093aaa98-4bdd-4e72-a31d-d673ebfef1db.JPG)
