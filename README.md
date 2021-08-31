@@ -8,4 +8,4 @@ By virtue of this situation, in this degree project an emergent method driven by
 
 ![CT3](https://user-images.githubusercontent.com/89767264/131359804-093aaa98-4bdd-4e72-a31d-d673ebfef1db.JPG)
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fabian-david-navarro-cano-7575b91b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/fabian-david-navarro-cano-7575b91b0?trk=profile-badge">Fabian David Navarro Cano</a></div>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="fabian-david-navarro-cano-7575b91b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/fabian-david-navarro-cano-7575b91b0?trk=profile-badge">Fabian David Navarro Cano</a></div>
